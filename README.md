@@ -1,2 +1,2 @@
-# Martin Nedelinov Petrov 12V Graduation project
- Diplomen Proekt
+# Martin Petrov 12V Graduation Project
+ Дипломен проект
